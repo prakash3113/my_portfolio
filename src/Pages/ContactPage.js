@@ -20,7 +20,7 @@ function ContactPage() {
                 <ContactItem icon={phone} text1={'+91 8180099165'} text2={'+91 8180099165'} title={'Phone'}/>
                 </a>
                 <a href = "mailto:prakashraje020@gmail.com?subject = Feedback&body = Message">
-                    <ContactItem icon={email} text1={'prakashraje020@hmail.com'} text2={'prakash.raje7@gmail.com'} title={'Email'}/>
+                    <ContactItem icon={email} text1={'prakashraje020@gmail.com'} text2={'prakash.raje7@gmail.com'} title={'Email'}/>
                 </a>
                     <ContactItem icon={location} text1={'JUBILLANT COLONY, AP. NIRA, TAL. PURANDAR MAHARASHTRA- 412102'} text2={'India'} title={'Address'}/>
                 </div>
