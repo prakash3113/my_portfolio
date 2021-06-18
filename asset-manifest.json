@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.5e0ddbca.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.8b21a1bd.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.8b21a1bd.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.f8f5c5e6.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.f8f5c5e6.js.map",
+    "static/js/2.8639aba5.chunk.js": "/my_portfolio/static/js/2.8639aba5.chunk.js",
+    "static/js/2.8639aba5.chunk.js.map": "/my_portfolio/static/js/2.8639aba5.chunk.js.map",
+    "index.html": "/my_portfolio/index.html",
+    "static/css/main.5e0ddbca.chunk.css.map": "/my_portfolio/static/css/main.5e0ddbca.chunk.css.map",
+    "static/js/2.8639aba5.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.8639aba5.chunk.js.LICENSE.txt",
+    "static/media/abt.6d2586ac.JPG": "/my_portfolio/static/media/abt.6d2586ac.JPG",
+    "static/media/avatar.aac65b20.jpg": "/my_portfolio/static/media/avatar.aac65b20.jpg",
+    "static/media/codeer.e114fd37.jpg": "/my_portfolio/static/media/codeer.e114fd37.jpg",
+    "static/media/cs.fb99806a.png": "/my_portfolio/static/media/cs.fb99806a.png",
+    "static/media/css.e8ec0e31.jpg": "/my_portfolio/static/media/css.e8ec0e31.jpg",
+    "static/media/ecommerce.4ddb07a0.png": "/my_portfolio/static/media/ecommerce.4ddb07a0.png",
+    "static/media/elearning.2fe14c19.jpg": "/my_portfolio/static/media/elearning.2fe14c19.jpg",
+    "static/media/emailme.a60657eb.svg": "/my_portfolio/static/media/emailme.a60657eb.svg",
+    "static/media/frontend.20627b66.jpg": "/my_portfolio/static/media/frontend.20627b66.jpg",
+    "static/media/html.0b99b8f9.jpg": "/my_portfolio/static/media/html.0b99b8f9.jpg",
+    "static/media/javascript.b5a311f7.jpg": "/my_portfolio/static/media/javascript.b5a311f7.jpg",
+    "static/media/location.5cd6776e.svg": "/my_portfolio/static/media/location.5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/my_portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/portfolio.20eb6da3.png": "/my_portfolio/static/media/portfolio.20eb6da3.png",
+    "static/media/reactjs.2a8456a6.jpg": "/my_portfolio/static/media/reactjs.2a8456a6.jpg",
+    "static/media/scraping.65d6ecfd.jpg": "/my_portfolio/static/media/scraping.65d6ecfd.jpg",
+    "static/media/software.11c82f17.png": "/my_portfolio/static/media/software.11c82f17.png",
+    "static/media/software.e2427417.jpg": "/my_portfolio/static/media/software.e2427417.jpg",
+    "static/media/srms.e15f6b1e.png": "/my_portfolio/static/media/srms.e15f6b1e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8f5c5e6.js",
+    "static/js/2.8639aba5.chunk.js",
+    "static/css/main.5e0ddbca.chunk.css",
+    "static/js/main.8b21a1bd.chunk.js"
+  ]
+}
